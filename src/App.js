@@ -1,10 +1,10 @@
 import { useState } from "react";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import Portfolio from "./components/Portfolio";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Resume from "./components/Resume";
+import Footer from "./components/footer";
+import Header from "./components/header";
+import Portfolio from "./components/portfolio";
+import About from "./components/about";
+import Contact from "./components/contact";
+import Resume from "./components/resume";
 
 export default function App() {
   const [selected, setSelected] = useState("about");
