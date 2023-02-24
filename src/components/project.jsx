@@ -1,4 +1,5 @@
 export default function Project({ project }) {
+  console.log(project)
   return (
     <div className="project">
       <h2>{project.title}</h2>

@@ -1,13 +1,14 @@
 import Project from "./project";
+import recipeAppImage from '../projects/recipe-app-screenshot.png'
 
 // TODO: Add your projects here
 
 const projects = [
   {
-    title: "Project 1",
-    image: "https://via.placeholder.com/150",
-    githubUrl: "https://github.com",
-    liveUrl: "https://github.com",
+    title: "Recipe App",
+    image: recipeAppImage,
+    githubUrl: "https://github.com/aronson333/project2-recipe-app",
+    liveUrl: "https://project2-recipe-app.herokuapp.com/",
   },
   {
     title: "Project 2",

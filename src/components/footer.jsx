@@ -1,6 +1,3 @@
-// TODO: replace links with actual links for github and linkedin
-// TODO: use a 3rd link for stack overflow
-
 export default function Footer() {
   return (
     <footer>
